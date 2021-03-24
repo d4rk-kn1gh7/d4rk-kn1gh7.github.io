@@ -1,5 +1,5 @@
 ---
-title: Who am I?
+title: About Me
 permalink: /about/
 layout: page
 comments: false
@@ -11,6 +11,6 @@ I'm interested in cyber security, and am an active CTF player with <a href="http
 
 I'm also an avid gamer in my free time.
 
-** You can find me on **
+**You can find me on**
 - <a href="https://www.twitter.com/_d4rkkn1gh7" target="_blank" rel="noopener">twitter</a>
 - <a href="https://www.github.com/d4rk-kn1gh7" target="_blank" rel="noopener">github</a>
