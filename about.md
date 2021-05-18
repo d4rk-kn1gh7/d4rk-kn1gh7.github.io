@@ -7,7 +7,7 @@ comments: false
 
 I'm Anand Balaji, a student doing his B.Tech in Computer Science (Specializing in Artificial Intelligence) at Amrita Vishwa Vidyapeetham, Amritapuri Campus.
 
-I'm interested in systems security and hacking, and am an active CTF player with <a href="https://www.bi0s.in/" target="_blank" rel="noopener">team bi0s</a>. I do binary exploitation and exploit development, and you can probably catch me playing CTFs every weekend.
+I'm interested in systems security and hacking, and am an active CTF player with <a href="https://www.bi0s.in/" target="_blank" rel="noopener">team bi0s</a>. I do binary exploitation and exploit development, and you can probably catch me playing CTFs every weekend. My current skills include stack and heap exploitation, and I'm currently learning browser exploitation.
 
 I'm also an avid gamer in my free time.
 
